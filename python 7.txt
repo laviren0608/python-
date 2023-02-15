@@ -1,0 +1,7 @@
+#Program to find the area and perimeter of a rectangle, when the required input (Length and breadth) are entered by the user
+l=int(input("enter the length of rectangle\n"))
+w=int(input("enter the width of rectangle\n"))
+a=l*w
+print("area of rectangle is:",a)
+p=2*(l+w)
+print("perimeter of rectangle is:",p)

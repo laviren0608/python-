@@ -1,0 +1,5 @@
+#Program to input two integer values and calculate first number raised to the power second number 
+a=int(input("enter the value of a"))
+b=int(input("enter the value of b"))
+c=a**b
+print("the value of c is:",c)

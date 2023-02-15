@@ -1,0 +1,5 @@
+#program to print two string in differnet lines 
+a="hello"
+b="arun"
+print(a)
+print(b)
